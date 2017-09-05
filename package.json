@@ -1,0 +1,15 @@
+{
+  "name": "vimmode",
+  "main": "./lib/vimmode",
+  "version": "0.0.0",
+  "description": "Vim mode for Inkdrop",
+  "repository": "",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "engines": {
+    "inkdrop": ">=2.1.0 <3.0.0"
+  },
+  "dependencies": {
+  }
+}

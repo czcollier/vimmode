@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle vimmode",
+        "command": "vimmode:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "vimmode",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "vimmode:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
